@@ -1,0 +1,15 @@
+body, html, h1, p {
+  font-family: monospace;
+  margin: 0;
+  padding: 0;
+}
+
+a:link, a:visited {
+  color: red;
+}
+
+#column {
+  width: 640px;
+  border-top: 6px solid red;
+  padding: 8px;
+}
